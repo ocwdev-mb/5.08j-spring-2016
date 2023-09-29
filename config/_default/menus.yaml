@@ -1,0 +1,21 @@
+leftnav:
+- identifier: cbf7ff94-b407-73fd-d6ea-558576453fae
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a1cea5f7-cf69-a7e4-9707-b4df5b644e70
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 7a32c19e-298a-989e-6f0e-a8350a915e8f
+  name: Lecture & Recitation Videos
+  pageRef: /pages/lecture-recitation-videos
+  weight: 30
+- identifier: f58ea98a-f2ed-3714-ab17-1a8cbf7191ea
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: de05bb4e-0192-f762-9b18-f005fcf6c6bb
+  name: Exams
+  pageRef: /pages/exams
+  weight: 50
